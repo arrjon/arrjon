@@ -16,6 +16,9 @@ My current projects focus on:
 ---
 
 ## 📄 Selected Publications
+- *Diffusion Models In Simulation-Based Inference: A Tutorial Review*  
+  *(preprint, 2025)* [https://bayesflow-org.github.io/diffusion-experiments/](https://bayesflow-org.github.io/diffusion-experiments/)
+  
 - *Simulation-Based Inference of Cell Migration Dynamics in Complex Spatial Environments*  
   *(under review, 2025)* [doi:10.1101/2025.09.25.678460](https://doi.org/10.1101/2025.09.25.678460)
 
