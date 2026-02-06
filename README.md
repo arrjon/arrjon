@@ -20,7 +20,7 @@ My current projects focus on:
   *(preprint)* [https://bayesflow-org.github.io/diffusion-experiments/](https://bayesflow-org.github.io/diffusion-experiments/)
   
 - *Simulation-Based Inference of Cell Migration Dynamics in Complex Spatial Environments*  
-  *(under review, 2026)* [doi:10.1038/s41540-026-00648-9](https://doi.org/10.1038/s41540-026-00648-9)
+  *(npj Systems Biology and Applications, 2026)* [doi:10.1038/s41540-026-00648-9](https://doi.org/10.1038/s41540-026-00648-9)
 
 - *Compositional Amortized Inference for Large-Scale Hierarchical Bayesian Models*  
   *(ICLR 2026)* [doi:10.48550/arXiv.2505.14429](https://doi.org/10.48550/arXiv.2505.14429)
