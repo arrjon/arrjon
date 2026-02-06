@@ -17,13 +17,13 @@ My current projects focus on:
 
 ## 📄 Selected Publications
 - *Diffusion Models In Simulation-Based Inference: A Tutorial Review*  
-  *(preprint, 2025)* [https://bayesflow-org.github.io/diffusion-experiments/](https://bayesflow-org.github.io/diffusion-experiments/)
+  *(preprint)* [https://bayesflow-org.github.io/diffusion-experiments/](https://bayesflow-org.github.io/diffusion-experiments/)
   
 - *Simulation-Based Inference of Cell Migration Dynamics in Complex Spatial Environments*  
-  *(under review, 2025)* [doi:10.1101/2025.09.25.678460](https://doi.org/10.1101/2025.09.25.678460)
+  *(under review, 2026)* [doi:10.1038/s41540-026-00648-9](https://doi.org/10.1038/s41540-026-00648-9)
 
 - *Compositional Amortized Inference for Large-Scale Hierarchical Bayesian Models*  
-  *(under review, 2025)* [doi:10.48550/arXiv.2505.14429](https://doi.org/10.48550/arXiv.2505.14429)
+  *(ICLR 2026)* [doi:10.48550/arXiv.2505.14429](https://doi.org/10.48550/arXiv.2505.14429)
 
 - *An Amortized Approach to Nonlinear Mixed-Effects Modeling Based on Neural Posterior Estimation*  
   *(ICML 2024)* [https://proceedings.mlr.press/v235/arruda24a.html](https://proceedings.mlr.press/v235/arruda24a.html)
