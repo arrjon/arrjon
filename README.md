@@ -11,7 +11,10 @@ My current projects focus on:
 
 - **Simulation-based inference** for mechanistic simulations
 - Scalable **Bayesian inference** for large hierarchical dynamical systems  
-- **Diffusion models** and **amortized inference** for interpretable scientific modeling  
+- **Diffusion models** and **amortized inference** for interpretable scientific modeling
+
+
+<img width="8000" height="4500" alt="Research Proposal Overview" src="https://github.com/user-attachments/assets/6e666c50-49f1-4bf6-983c-dc90db25028e" />
 
 ---
 
@@ -27,3 +30,5 @@ My current projects focus on:
 
 - *An Amortized Approach to Nonlinear Mixed-Effects Modeling Based on Neural Posterior Estimation*  
   *(ICML 2024)* [https://proceedings.mlr.press/v235/arruda24a.html](https://proceedings.mlr.press/v235/arruda24a.html)
+
+---
