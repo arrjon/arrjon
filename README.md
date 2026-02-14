@@ -1,7 +1,7 @@
 # Jonas Arruda
 
 PhD Candidate in Mathematics at the University of Bonn  
-Researcher at the Bonn Center for Mathematics and Life Sciences (BCMLS) and the LIMES Institute  
+Researcher at the Bonn Center for Mathematics and Life Sciences (BCMLS) and the Life & Medical Sciences Institute (LIMES)
 
 ---
 
@@ -32,5 +32,5 @@ My current projects focus on:
 
 ---
 
-Check out my tutorial on diffusion models for SBI: 
+## Check out my tutorial on diffusion models for SBI
 [![Youtube Video](https://github.com/user-attachments/assets/128601ef-719c-4b11-b67b-366af0b680e8)](https://youtu.be/ZlcEkHXgF5k)
