@@ -1,7 +1,6 @@
 # Jonas Arruda
 
-PhD Candidate in Mathematics at the University of Bonn  
-Researcher at the Bonn Center for Mathematics and Life Sciences (BCMLS) and the Life & Medical Sciences Institute (LIMES)
+Postdoctoral Researcher at the University of Helsinki  
 
 ---
 
@@ -9,9 +8,9 @@ Researcher at the Bonn Center for Mathematics and Life Sciences (BCMLS) and the 
 I work at the interface of **machine learning**, **probability**, and **biological modeling**.  
 My current projects focus on:
 
-- **Simulation-based inference** for mechanistic simulations
+- **Amortized simulation-based inference** for mechanistic simulations
 - Scalable **Bayesian inference** for large hierarchical dynamical systems  
-- **Diffusion models** and **amortized inference** for interpretable scientific modeling
+- **Diffusion models, flow matching, consistency models, mean flows**, etc., for interpretable scientific modeling
 
 <img width="8000" height="4500" alt="Research Proposal Overview" src="https://github.com/user-attachments/assets/6e666c50-49f1-4bf6-983c-dc90db25028e" />
 
@@ -19,7 +18,13 @@ My current projects focus on:
 
 ## 📄 Selected Publications
 - *Diffusion Models In Simulation-Based Inference: A Tutorial Review*  
-  *(preprint)* [https://bayesflow-org.github.io/diffusion-experiments/](https://bayesflow-org.github.io/diffusion-experiments/)
+  *(TMLR 2026)* [https://bayesflow-org.github.io/diffusion-experiments/](https://bayesflow-org.github.io/diffusion-experiments/)
+
+- *Conditional Mean Flows: Few-Step Densities for Simulation-Based Inference*  
+  *(preprint)* [doi:10.48550/arXiv.2610.21657](https://doi.org/10.48550/arXiv.2610.21657)
+  
+- *Overcoming Selection Bias in Statistical Studies With Amortized Bayesian Inference* 
+  *(preprint)* [doi:10.48550/arXiv.2604.18319](https://doi.org/10.48550/arXiv.2604.18319)
   
 - *Simulation-Based Inference of Cell Migration Dynamics in Complex Spatial Environments*  
   *(npj Systems Biology and Applications, 2026)* [doi:10.1038/s41540-026-00648-9](https://doi.org/10.1038/s41540-026-00648-9)
